@@ -1,0 +1,2 @@
+this is a script file to test create a new brach for learning git
+the author is yupengshi on 2/9/2020 China.
